@@ -270,7 +270,7 @@ public:
         std::cout << "Total time of work:\t" << T << '\n';
         std::cout << "Parament for male:\t" << l1 << '\n';
         std::cout << "Parament for female:\t" << l2 << '\n';
-        std::cout << "Parament for serve:\t" << mu << '\n';
+        std::cout << "Parament for serving:\t" << mu << '\n';
         std::cout << "Male queue limit:\t" << male_queue_limit << '\n';
         std::cout << "Female queue limit:\t" << female_queue_limit << '\n';
         std::cout << "==============================\n";
