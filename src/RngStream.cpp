@@ -25,7 +25,7 @@
 
 #include <cstdlib>
 #include <iostream>
-#include "RngStream.h"
+#include "./../include/RngStream.h"
 using namespace std;
 
 namespace
